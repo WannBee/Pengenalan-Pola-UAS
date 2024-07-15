@@ -1,6 +1,6 @@
 # Pengenalan-Pola-UAS
 
-**Repository ini dibuat untuk memenuhi UAS Pengenalan Pola
+***Repository ini dibuat untuk memenuhi UAS Pengenalan Pola berikut terlampir juga laporan dalam bentuk PDF
 
 * step menjalankan
 
